@@ -1,0 +1,13 @@
+.CreateAccountButton {
+  color: rgb(59, 73, 223);
+  background-color: rgba(0, 0, 0, 0);
+  border-radius: 6px;
+  outline-color: rgb(59, 73, 223);
+  border: 1px solid rgb(59, 73, 223);
+  &:hover {
+    background-color: rgba(59, 73, 223, 1);
+    border-color: rgba(47, 58, 178, 1);
+    color: rgba(255, 255, 255, 1);
+    text-decoration: underline;
+  }
+}

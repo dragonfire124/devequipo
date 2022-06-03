@@ -1,0 +1,11 @@
+.SearchIcon {
+  border: none;
+  outline: none;
+  border-radius: 6px;
+  background-color: white;
+  padding: 7px 8px;
+  cursor: pointer;
+  &:hover {
+    background-color: rgba(59, 73, 223, 0.1);
+  }
+}

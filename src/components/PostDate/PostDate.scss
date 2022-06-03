@@ -1,0 +1,9 @@
+.PostDate {
+  color: rgb(82, 82, 82);
+  font-size: 12px;
+  border: none;
+  background-color: transparent;
+  &:hover {
+    color: rgba(23, 23, 23, 1);
+  }
+}

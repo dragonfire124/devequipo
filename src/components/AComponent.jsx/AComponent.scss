@@ -1,0 +1,15 @@
+.AComponent {
+  &:hover {
+    color: rgba(47, 58, 178, 1);
+    text-decoration: underline;
+  }
+}
+
+.buttonHover:hover {
+  background-color: rgb(224, 225, 241);
+}
+
+.buttonHover:hover > a {
+  color: rgb(42, 48, 165);
+  text-decoration: underline;
+}
